@@ -1,0 +1,1 @@
+7:2:2019, 10:28:7:288 : e:\technical\ssinterview\logutility\logutility\test.cc:30 in planetest DEBUG[12944:11380]: 1 log message in debug
